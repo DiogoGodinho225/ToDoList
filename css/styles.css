@@ -89,3 +89,12 @@ section{
     background-color: green;
     text-decoration: line-through;
 }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px;
+    font-weight: bold;
+}
